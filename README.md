@@ -16,7 +16,7 @@
   
 Tambien se usar Excel e Illustrator y en camino de aprender otras tecnologías
 
-#Contacto
+# Contacto
 - [Linkedin](https://www.linkedin.com/in/ricardo-lopera-márquez-839602276/)
 - ricarbonatodesodio@gmail.com
 <!--
