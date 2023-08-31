@@ -13,6 +13,7 @@
 - Librerias de machine learning
 - Mysql
 - FastApi
+  
 Tambien se usar Excel e Illustrator y en camino de aprender otras tecnologías
 
 #Contacto
